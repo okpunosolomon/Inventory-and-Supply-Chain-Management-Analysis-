@@ -186,7 +186,8 @@ Key cleaning and transformation steps included:
 * **Backorder Count**
   `Backorder = COUNTROWS(FILTER('Orders', 'Orders'[Order Status] = "Pending"))`
 
-  📘 Full documentation available in ./powerbi-files/README_DAX.md
+  📘 [Full documentation available in powerbi-files/README_DAX.md](./powerbi-files/README_DAX.md)
+
   
 ---
 
