@@ -12,7 +12,7 @@ This caused delays in identifying bottlenecks and inefficiencies that directly a
 
 **Solution:**
 This project delivers an **interactive Power BI dashboard** that consolidates key operational metrics into one analytical view.
-It enables decision-makers to evaluate **warehouse utilization, transportation cost, order accuracy, and lead time** — providing a data-driven foundation for improving overall supply chain performance.
+It enables decision-makers to evaluate **warehouse utilization, transportation cost, order accuracy, and lead time**, providing a data-driven foundation for improving overall supply chain performance.
 
 **Impact:**
 
@@ -211,5 +211,5 @@ Key cleaning and transformation steps included:
 The **Inventory & Supply Chain Management Dashboard** transforms raw logistics data into a centralized intelligence hub.
 It empowers stakeholders to make informed, efficient, and cost-effective decisions through visualized analytics.
 
-⭐ *A data-driven supply chain isn’t just efficient — it’s resilient.*
+⭐ *A data-driven supply chain isn’t just efficient, it’s resilient.*
 ---
