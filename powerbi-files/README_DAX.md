@@ -133,8 +133,6 @@ Used alongside warehouse utilization and turnover metrics to maintain optimal st
 ## 💡 Summary
 
 These DAX measures form the analytical foundation of the **Inventory & Supply Chain Dashboard**.
-Together, they deliver real-time visibility into stock flow, operational efficiency, and cost distribution — empowering businesses to make evidence-based decisions and optimize their end-to-end supply chain.
+Together, they deliver real-time visibility into stock flow, operational efficiency, and cost distribution, therefore empowering businesses to make evidence-based decisions and optimize their end-to-end supply chain.
 
 ---
-
-Would you like me to generate the **file layout structure** (folders + where to put each visual, dataset, and Power BI file) so your GitHub repo matches the clean, professional look of the Pianalytix example?
